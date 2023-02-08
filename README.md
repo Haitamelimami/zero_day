@@ -10,4 +10,4 @@ Virtual Box is a virtualization software that allows us to run multiple operatin
 
 Git is a distributed version control system. It allows us to track changes in our codebase, collaborate with others, and keep a history of our work. Git is widely used by developers and organizations to manage their source code and collaborate on projects.
 
-Together, Virtual Box and Git are powerful tools for developers and IT professionals.
+*Together, Virtual Box and Git are powerful tools for developers and IT professionals.*
